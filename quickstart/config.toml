@@ -1,4 +1,4 @@
 baseURL = 'https://MatthewWEdwards.github.io/StrengthOfThousandsSite'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Strength of Thousands Site'
 theme = "ananke"
