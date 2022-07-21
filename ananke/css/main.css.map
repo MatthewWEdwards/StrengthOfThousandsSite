@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/matt/Documents/repos/StrengthOfThousandsSite/quickstart",
+	"sourceRoot": "/home/matt/Documents/repos/StrengthOfThousandsSite/sot",
 	"sources": [
 		"stdin"
 	],

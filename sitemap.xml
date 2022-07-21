@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/characters/anchor_root/</loc>
-  </url><url>
     <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/characters/chizire/</loc>
   </url><url>
     <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/characters/fardrik/</loc>
@@ -26,11 +24,15 @@
   </url><url>
     <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/characters/tzeniwe/</loc>
   </url><url>
+    <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/characters/anchor_root/</loc>
+  </url><url>
     <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/categories/</loc>
   </url><url>
     <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/characters/</loc>
   </url><url>
     <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/</loc>
+  </url><url>
+    <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/tags/student/</loc>
   </url><url>
     <loc>https://MatthewWEdwards.github.io/StrengthOfThousandsSite/tags/</loc>
   </url>
