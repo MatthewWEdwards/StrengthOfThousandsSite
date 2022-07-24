@@ -1,6 +1,6 @@
 ---
 title: Oyamba
-tags: [student]
+tags: [teacher]
 alignment: Lawful Good
 gender: Male
 race: Human
