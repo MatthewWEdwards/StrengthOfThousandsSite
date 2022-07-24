@@ -1,11 +1,11 @@
 ---
 title: Anchor Root
 tags: [student]
-alignment: "N"
-gender: female
-race: ant gnoll
-role: bonekeeper-in-training
-branch: Rain-Scribes
+alignment: Neutral
+gender: Female
+race: Ant Gnoll
+role: Bonekeeper-in-training
+branch: RS
 Classroom Advantage: Treat your critical failures when you study for Rain-Scribe classes as failures
 Notable Skills: Nature, Occultism, Stealth, Survival
 Hobbies: sand sculpture, raising beetles, musical curation
