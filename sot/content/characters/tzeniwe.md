@@ -1,5 +1,6 @@
 ---
 title: Strands-of-Glowing-Dawn Tzeniwe
+image: "/images/tzeniwe.png"
 tags: [student]
 alignment: Neutral Good
 gender: Female
@@ -8,4 +9,3 @@ role: Dreamweaver
 branch: EB
 draft: false
 ---
-![Tzeniwe](../../images/tzeniwe.png)

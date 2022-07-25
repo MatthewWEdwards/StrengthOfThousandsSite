@@ -1,5 +1,6 @@
 ---
 title: Noxolo
+image: "/images/noxolo.png"
 tags: [student]
 alignment: Lawful Neutral
 gender: Female
@@ -8,4 +9,3 @@ role: Auger
 branch: U
 draft: false
 ---
-![Noxolo](../../images/noxolo.png)

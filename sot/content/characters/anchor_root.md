@@ -1,5 +1,6 @@
 ---
 title: Anchor Root
+image: "/images/anchor_root.png"
 tags: [student]
 alignment: Neutral
 gender: Female
@@ -15,4 +16,3 @@ Common Associates: [Noxolo,Tzeniwe]
 tags: [student]
 draft: false
 ---
-![Anchor Root](../../images/anchor_root.png)

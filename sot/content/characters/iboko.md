@@ -1,5 +1,6 @@
 ---
 title: Iboko
+image: "/images/iboko.png"
 tags: [student]
 alignment: Neutral Good
 gender: Female
@@ -8,4 +9,3 @@ role: Rain Caller
 branch: U
 draft: false
 ---
-![Iboko](../../images/iboko.png)

@@ -1,5 +1,6 @@
 ---
 title: Jumimo
+image: "/images/jumimo.png"
 tags: [student]
 alignment: Neutral
 gender: Male
@@ -8,4 +9,3 @@ role: Veteran Student
 branch: RS
 draft: false
 ---
-![Jumimo](../../images/jumimo.png)

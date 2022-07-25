@@ -1,5 +1,6 @@
 ---
 title: Okoro Obiyo
+image: "/images/okoro_obiyo.png"
 tags: [student]
 alignment: Neutral Good
 gender: Male
@@ -8,4 +9,3 @@ role: Researcher
 branch: U
 draft: false
 ---
-![Okoro Obiyo](../../images/okoro_obiyo.png)

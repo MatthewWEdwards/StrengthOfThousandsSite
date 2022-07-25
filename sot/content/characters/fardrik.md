@@ -1,5 +1,6 @@
 ---
 title: Fardrik
+image: "/images/fardrik.png"
 tags: [student]
 alignment: Chaotic Good
 gender: Male
@@ -8,4 +9,3 @@ role: Orator
 branch: EB
 draft: false
 ---
-![Fadrik](../../images/fardrik.png)

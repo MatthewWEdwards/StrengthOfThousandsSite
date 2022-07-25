@@ -1,5 +1,6 @@
 ---
 title: Mariama
+image: "/images/mariama.png"
 tags: [student]
 alignment: Chaotic Neutral
 gender: Female
@@ -8,4 +9,3 @@ role: Chaos Magnet
 branch: CB
 draft: false
 ---
-![Mariama](../../images/mariama.png)

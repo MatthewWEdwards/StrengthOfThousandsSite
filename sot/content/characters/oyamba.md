@@ -1,5 +1,6 @@
 ---
 title: Oyamba
+image: "/images/oyamba.png"
 tags: [teacher]
 alignment: Lawful Good
 gender: Male
@@ -8,4 +9,3 @@ role: Lorespeaker
 branch: U
 draft: false
 ---
-![Oyamba](../../images/oyamba.png)

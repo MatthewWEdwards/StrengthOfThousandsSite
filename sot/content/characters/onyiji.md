@@ -1,5 +1,6 @@
 ---
 title: Onyiji
+image: "/images/onyiji.png"
 tags: [student]
 alignment: Lawful Neutral
 gender: Female
@@ -8,4 +9,3 @@ role: Slacker
 branch: TSM
 draft: false
 ---
-![Chizire](../../images/onyiji.png)

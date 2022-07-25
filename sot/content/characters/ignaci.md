@@ -1,5 +1,6 @@
 ---
 title: Ignaci
+image: "/images/ignaci.png"
 tags: [student]
 alignment: Neutral
 gender: Male
@@ -8,4 +9,3 @@ role: Thaumaturage
 branch: EB
 draft: false
 ---
-![Ignaci](../../images/ignaci.png)

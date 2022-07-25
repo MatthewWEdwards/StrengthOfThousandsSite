@@ -1,5 +1,6 @@
 ---
 title: Seloze
+image: "/images/seloze.png"
 tags: [student]
 alignment: Chaotic Neutral
 gender: Male
@@ -8,4 +9,3 @@ role: Novelist
 branch: EB
 draft: false
 ---
-![Seloze](../../images/seloze.png)
